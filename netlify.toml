@@ -3,4 +3,6 @@
     publish = "out"
 
 [[headers]]
+    for = "/*"
+    
     X-MADE-IN-LOVE-BY = "Saw-mon & Natalie"
