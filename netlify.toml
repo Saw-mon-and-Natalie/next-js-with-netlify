@@ -4,6 +4,5 @@
 
 [[headers]]
     for = "/*"
-
-    [header.values]
-        X-MADE-IN-LOVE-BY = "Saw-mon & Natalie"
+    [headers.values]
+        X-MADE-BY-LOVE = "Saw-mon & Natlaie"
