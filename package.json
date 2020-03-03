@@ -1,0 +1,25 @@
+{
+  "name": "next-js-with-netlify",
+  "version": "1.0.0",
+  "description": "Testing Next.js with Netlify Large Media feature.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "next.js",
+    "netlify",
+    "netlify-large-media"
+  ],
+  "author": "Saw-mon & Natalie",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
