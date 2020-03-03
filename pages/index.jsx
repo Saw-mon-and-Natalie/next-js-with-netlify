@@ -1,6 +1,7 @@
 const Index = () => (
     <div>
         <h1>NextJS test app on Netlify</h1>
+        <h2>This is the production branch.</h2>
         <ul>
             <li>testing large media format</li>
         </ul>
